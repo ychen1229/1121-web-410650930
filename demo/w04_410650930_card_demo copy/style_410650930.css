@@ -1,0 +1,55 @@
+body {background-color: rgb(233, 237, 241);}
+
+.card {
+    background-color: rgb(220, 229, 224);
+    border: 3px solid transparent;
+    padding: 1.5rem 2rem;
+    margin: 3rem;
+    text-align: center;
+    border-radius: 0.5rem;
+}
+.card-1{
+    border-color: deeppink;
+
+}
+
+.card-2{
+    border-color: dodgerblue;
+
+}
+
+.icon{
+    width: 40px ;
+    height: 40px ;
+    background: deeppink ;
+    border-radius: 50%;
+    margin: 0 auto;
+
+}
+
+.card-1 .icon{
+    background: deeppink ;
+}
+
+.card-2 .icon{
+    background: dodgerblue ;
+}
+
+.btn{
+    border: transparent;
+    padding: 0.5rem 1rem;
+    text-transform: capitalize;
+    border-radius: 0.3rem;
+}
+
+.btn-1{
+    color:deeppink ;
+    background-color: rgba(255, 105, 166, 0.1) ;
+    border: 1px solid rgba(255, 105, 166, 0.5);
+}
+
+.btn-2{
+    color: dodgerblue;
+    background-color: rgba(99, 168, 255, 0.1) ;
+    border: 1px solid rgba(99, 168, 255, 0.5);
+}
