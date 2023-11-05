@@ -24,7 +24,7 @@ function showdemo(week) {
         break;
 
         case 7:
-            p.innerHTML = `<iframe src='./w07_410650930/' width="100%" height="100%" />`;
+            p.innerHTML = `<iframe src='./index.html' width="100%" height="100%" />`;
 
         break;
 
